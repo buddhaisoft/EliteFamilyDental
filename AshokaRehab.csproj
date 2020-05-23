@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0AF096A2-FD35-4E4D-976D-619876CAEC9B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AshokaRehab</RootNamespace>
+    <AssemblyName>AshokaRehab</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="about-us.html" />
+    <Content Include="audio\californication.html" />
+    <Content Include="contacts.html" />
+    <Content Include="ContactUS.aspx" />
+    <Content Include="pic\AshokaRehabentry.JPG" />
+    <Content Include="pic\AShokaRehabfrontdesk.JPG" />
+    <Content Include="pic\AshokaRehabFrontview.JPG" />
+    <Content Include="pic\AshokaRehabInternal.JPG" />
+    <Content Include="pic\AshokaRehabIntrnal2.JPG" />
+    <Content Include="pic\AshokaRehabIntrnal3.JPG" />
+    <Content Include="pic\AshokaRehabIntrnal4.JPG" />
+    <Content Include="pic\AshokaRehabTeam.JPG" />
+    <Content Include="pic\DSC_0150.JPG" />
+    <Content Include="TemplateContactus.html" />
+    <Content Include="css\blank.gif" />
+    <Content Include="css\color-blue.css" />
+    <Content Include="css\color-cyan.css" />
+    <Content Include="css\color-green.css" />
+    <Content Include="css\color-orange.css" />
+    <Content Include="css\color-pink.css" />
+    <Content Include="css\color-purple.css" />
+    <Content Include="css\font-awesome.css" />
+    <Content Include="css\fullwidth\loading.gif" />
+    <Content Include="css\fullwidth\skin.css" />
+    <Content Include="css\fullwidth\skin.png" />
+    <Content Include="css\jquery.fancybox.css" />
+    <Content Include="css\layerslider.css" />
+    <Content Include="css\owl.carousel.css" />
+    <Content Include="css\styles.css" />
+    <Content Include="doctors.html" />
+    <Content Include="feature-unlimited-color.html" />
+    <Content Include="features-accordion.html" />
+    <Content Include="features-buttons.html" />
+    <Content Include="features-callout.html" />
+    <Content Include="features-chart-circle.html" />
+    <Content Include="features-chart-graph.html" />
+    <Content Include="features-chart-pie.html" />
+    <Content Include="features-columns.html" />
+    <Content Include="features-divider.html" />
+    <Content Include="features-icons.html" />
+    <Content Include="features-list.html" />
+    <Content Include="features-message-box.html" />
+    <Content Include="features-milestone.html" />
+    <Content Include="features-pricing-table.html" />
+    <Content Include="features-progress-bar.html" />
+    <Content Include="features-service.html" />
+    <Content Include="features-tab.html" />
+    <Content Include="features-team.html" />
+    <Content Include="features-testimonials.html" />
+    <Content Include="features-toggle.html" />
+    <Content Include="features-twitter-carousel-element.html" />
+    <Content Include="features-twitter.html" />
+    <Content Include="features-video.html" />
+    <Content Include="fonts\fontawesome-webfontba72.svg" />
+    <Content Include="full-width-page.html" />
+    <Content Include="home-news.html" />
+    <Content Include="home-one-page.html" />
+    <Content Include="images\twitter_bird.html" />
+    <Content Include="img\blank.gif" />
+    <Content Include="img\blue\Ashkalogo10.jpg" />
+    <Content Include="img\blue\Ashkalogo9.jpg" />
+    <Content Include="img\blue\Ashkalogo9.png" />
+    <Content Include="img\blue\last-news%402x.png" />
+    <Content Include="img\blue\last-news.png" />
+    <Content Include="img\blue\location%402x.png" />
+    <Content Include="img\blue\location.png" />
+    <Content Include="img\blue\logo - Copy %282%29.png" />
+    <Content Include="img\blue\logo - Copy.png" />
+    <Content Include="img\blue\logo.jpg" />
+    <Content Include="img\blue\logo.png" />
+    <Content Include="img\blue\logo5.jpg" />
+    <Content Include="img\blue\logo5.png" />
+    <Content Include="img\blue\logo6.jpg" />
+    <Content Include="img\blue\logo6.png" />
+    <Content Include="img\blue\quick-search.png" />
+    <Content Include="img\blue\recent-posts%402x.png" />
+    <Content Include="img\blue\recent-posts.png" />
+    <Content Include="img\blue\select.png" />
+    <Content Include="img\blue\work-time%402x.png" />
+    <Content Include="img\blue\work-time.png" />
+    <Content Include="img\cyan\logo.png" />
+    <Content Include="img\fancybox_loading%402x.gif" />
+    <Content Include="img\fancybox_loading.gif" />
+    <Content Include="img\fancybox_overlay.png" />
+    <Content Include="img\fancybox_sprite%402x.png" />
+    <Content Include="img\fancybox_sprite.png" />
+    <Content Include="img\find.png" />
+    <Content Include="img\green\last-news%402x.png" />
+    <Content Include="img\green\last-news.png" />
+    <Content Include="img\green\location%402x.png" />
+    <Content Include="img\green\location.png" />
+    <Content Include="img\green\logo.png" />
+    <Content Include="img\green\quick-search.png" />
+    <Content Include="img\green\recent-posts%402x.png" />
+    <Content Include="img\green\recent-posts.png" />
+    <Content Include="img\green\select.png" />
+    <Content Include="img\green\work-time%402x.png" />
+    <Content Include="img\green\work-time.png" />
+    <Content Include="img\header.png" />
+    <Content Include="img\orange\logo.png" />
+    <Content Include="img\pink\logo.png" />
+    <Content Include="img\progress-bar.png" />
+    <Content Include="img\purple\logo.png" />
+    <Content Include="img\select.png" />
+    <Content Include="index.html" />
+    <Content Include="index-3.html" />
+    <Content Include="index-backup.html" />
+    <Content Include="js\greensock.js" />
+    <Content Include="js\jquery-ui-tabs-rotate.js" />
+    <Content Include="js\jquery-ui.min.js" />
+    <Content Include="js\jquery.easypiechart.js" />
+    <Content Include="js\jquery.fancybox-media.js" />
+    <Content Include="js\jquery.fancybox.pack.js" />
+    <Content Include="js\jquery.flot.categories.js" />
+    <Content Include="js\jquery.flot.js" />
+    <Content Include="js\jquery.flot.pie.js" />
+    <Content Include="js\jquery.isotope.min.js" />
+    <Content Include="js\jquery.migrate.min.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\jquery.superscrollorama.js" />
+    <Content Include="js\jquery.tweet.js" />
+    <Content Include="js\jquery.ui.accordion.min.js" />
+    <Content Include="js\jquery.ui.core.min.js" />
+    <Content Include="js\jquery.ui.tabs.min.js" />
+    <Content Include="js\jquery.ui.widget.min.js" />
+    <Content Include="js\layerslider.kreaturamedia.jquery.js" />
+    <Content Include="js\layerslider.transitions.js" />
+    <Content Include="js\owl.carousel.min.js" />
+    <Content Include="js\scripts.js" />
+    <Content Include="js\TimelineMax.min.js" />
+    <Content Include="js\TweenMax.min.js" />
+    <Content Include="locations.html" />
+    <Content Include="MakeanAppointment2.aspx" />
+    <Content Include="MakeanAppointment3.aspx" />
+    <Content Include="news-blog-post.html" />
+    <Content Include="news-default.html" />
+    <Content Include="news-four-columns.html" />
+    <Content Include="news-full-width.html" />
+    <Content Include="news-three-columns.html" />
+    <Content Include="news-two-columns.html" />
+    <Content Include="page-404.html" />
+    <Content Include="page-pricing-table.html" />
+    <Content Include="page-with-double-sidebar.html" />
+    <Content Include="page-with-sidebar.html" />
+    <Content Include="photo-four-filter.html" />
+    <Content Include="photo-four.html" />
+    <Content Include="photo-gallery.html" />
+    <Content Include="photo-one.html" />
+    <Content Include="photo-single.html" />
+    <Content Include="photo-three-filter.html" />
+    <Content Include="photo-three.html" />
+    <Content Include="photo-two-filter.html" />
+    <Content Include="photo-two.html" />
+    <Content Include="pic\404_mask.png" />
+    <Content Include="pic\Ashkalogo10.jpg" />
+    <Content Include="pic\Ashkalogo9.jpg" />
+    <Content Include="pic\Ashkalogo9.png" />
+    <Content Include="pic\doctor-1.jpg" />
+    <Content Include="pic\doctor-2.jpg" />
+    <Content Include="pic\doctor-3.jpg" />
+    <Content Include="pic\doctor-4.jpg" />
+    <Content Include="pic\expert-1.png" />
+    <Content Include="pic\expert-2.png" />
+    <Content Include="pic\expert-3.png" />
+    <Content Include="pic\features_unlimited_color.png" />
+    <Content Include="pic\LayerSlider5.png" />
+    <Content Include="pic\medical-slide-1 - Copy.jpg" />
+    <Content Include="pic\medical-slide-1.jpg" />
+    <Content Include="pic\medical-slide-2 - Copy - Copy.jpg" />
+    <Content Include="pic\medical-slide-2 - Copy.jpg" />
+    <Content Include="pic\medical-slide-2.jpg" />
+    <Content Include="pic\medical-slide-3 - Copy.jpg" />
+    <Content Include="pic\medical-slide-3.jpg" />
+    <Content Include="pic\medical-slide-3a.jpg" />
+    <Content Include="pic\medical-slide-4.jpg" />
+    <Content Include="pic\medical-slide-4A.jpg" />
+    <Content Include="pic\medical-slide-4A.png" />
+    <Content Include="pic\medical-slide-4B.jpg" />
+    <Content Include="pic\medical-slide-4d.jpg" />
+    <Content Include="pic\medical-slide-4E.jpg" />
+    <Content Include="pic\medical-slide-4F.jpg" />
+    <Content Include="pic\medical-slide-4H.jpg" />
+    <Content Include="pic\medical-slide-5.jpg" />
+    <Content Include="pic\medical-slide-6.jpg" />
+    <Content Include="pic\medical-slide-6A.jpg" />
+    <Content Include="pic\medical-slide-7.jpg" />
+    <Content Include="pic\medical-slide-7A.jpg" />
+    <Content Include="pic\medical-slide-7B.jpg" />
+    <Content Include="pic\our-phylosophy.jpg" />
+    <Content Include="pic\page-retina-ready\1\ipad.png" />
+    <Content Include="pic\page-retina-ready\1\iphone.png" />
+    <Content Include="pic\page-retina-ready\1\monitor.png" />
+    <Content Include="pic\page-retina-ready\3\mac.png" />
+    <Content Include="pic\page-retina-ready\4\color-1.png" />
+    <Content Include="pic\page-retina-ready\4\color-2.png" />
+    <Content Include="pic\page-retina-ready\4\color-3.png" />
+    <Content Include="pic\page-retina-ready\4\color-4.png" />
+    <Content Include="pic\page-retina-ready\4\color-5.png" />
+    <Content Include="pic\page-retina-ready\4\color-6.png" />
+    <Content Include="pic\page-retina-ready\5\icons-group.png" />
+    <Content Include="pic\page-retina-ready\7\one-page.png" />
+    <Content Include="pic\photo-tour-1.jpg" />
+    <Content Include="pic\photo-tour-2.jpg" />
+    <Content Include="pic\photo-tour-3.jpg" />
+    <Content Include="pic\photo-tour-4.jpg" />
+    <Content Include="pic\photo-tour-5.jpg" />
+    <Content Include="pic\photo-tour-6.jpg" />
+    <Content Include="pic\photo-tour-7.jpg" />
+    <Content Include="pic\photo-tour-8.jpg" />
+    <Content Include="pic\post\1.png" />
+    <Content Include="pic\post\2.png" />
+    <Content Include="pic\post\3.png" />
+    <Content Include="pic\services-1.png" />
+    <Content Include="pic\testimonial-1.jpg" />
+    <Content Include="pic\wellness-slide-1.jpg" />
+    <Content Include="pic\wellness-slide-2.jpg" />
+    <Content Include="pic\wellness-slide-3.jpg" />
+    <Content Include="pic\wellness-slide-4.jpg" />
+    <Content Include="responsive_and_retina_ready.html" />
+    <Content Include="services.html" />
+    <Content Include="TemplateAppointment.html" />
+    <Content Include="timetable-list.html" />
+    <Content Include="timetable-month.html" />
+    <Content Include="timetable-week.html" />
+    <Content Include="tuner\css\styles.css" />
+    <Content Include="tuner\js\scripts.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="WebForm1.aspx" />
+    <Content Include="WebForm2.aspx" />
+    <Content Include="WebForm3.aspx" />
+    <Content Include="WebForm4.aspx" />
+    <Content Include="wellness-home.html" />
+    <Content Include="widgets.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ContactUS.aspx.cs">
+      <DependentUpon>ContactUS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUS.aspx.designer.cs">
+      <DependentUpon>ContactUS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MakeanAppointment2.aspx.cs">
+      <DependentUpon>MakeanAppointment2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MakeanAppointment2.aspx.designer.cs">
+      <DependentUpon>MakeanAppointment2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MakeanAppointment3.aspx.cs">
+      <DependentUpon>MakeanAppointment3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MakeanAppointment3.aspx.designer.cs">
+      <DependentUpon>MakeanAppointment3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm2.aspx.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm2.aspx.designer.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm3.aspx.cs">
+      <DependentUpon>WebForm3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm3.aspx.designer.cs">
+      <DependentUpon>WebForm3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm4.aspx.cs">
+      <DependentUpon>WebForm4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm4.aspx.designer.cs">
+      <DependentUpon>WebForm4.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\fontawesome-webfontba72.eot" />
+    <Content Include="fonts\fontawesome-webfontba72.ttf" />
+    <Content Include="fonts\fontawesome-webfontba72.woff" />
+    <Content Include="fonts\fontawesome-webfontd41d.eot" />
+    <Content Include="img\blue\Ashkalogo10.psd" />
+    <Content Include="img\blue\Ashkalogo9.psd" />
+    <Content Include="img\blue\logo.psd" />
+    <Content Include="img\blue\logo5.psd" />
+    <Content Include="pic\Ashkalogo10.psd" />
+    <Content Include="pic\Ashkalogo9.psd" />
+    <Content Include="pic\medical-slide-1.psd" />
+    <Content Include="pic\medical-slide-2 - Copy.psd" />
+    <Content Include="pic\medical-slide-2.psd" />
+    <Content Include="pic\medical-slide-3.psd" />
+    <Content Include="pic\medical-slide-3a.psd" />
+    <Content Include="pic\medical-slide-4.psd" />
+    <Content Include="pic\medical-slide-4A.psd" />
+    <Content Include="pic\medical-slide-4B.psd" />
+    <Content Include="pic\medical-slide-4c.psd" />
+    <Content Include="pic\medical-slide-4d.psd" />
+    <Content Include="pic\medical-slide-4E.psd" />
+    <Content Include="pic\medical-slide-4F.psd" />
+    <Content Include="pic\medical-slide-4G.psd" />
+    <Content Include="pic\medical-slide-4H.psd" />
+    <Content Include="pic\medical-slide-5.psd" />
+    <Content Include="pic\medical-slide-6.psd" />
+    <Content Include="pic\medical-slide-6A.psd" />
+    <Content Include="pic\medical-slide-7.psd" />
+    <Content Include="pic\medical-slide-7A.psd" />
+    <Content Include="pic\medical-slide-7B.psd" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:3282/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
