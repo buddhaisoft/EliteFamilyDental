@@ -389,7 +389,8 @@
 								<dt class="opened">ELITE FAMILY DENTAL</dt>
 								<dd>
 									<ul>
-										<li><i class="fa fa-map-marker"></i>1st Floor, Raj Arcade, Pillar No.143, Opp Rambagh Ground,Rambagh Road,                            Attapur,Hyderabad-500 048.</li>
+										<li><i class="fa fa-map-marker"></i>1st Floor, Raj Arcade, Pillar No.143, Opp Rambagh Ground,Rambagh Road,
+                            Attapur,Hyderabad-500 048.</li>
                                         <li><i class="fa fa-phone"></i>Call us: 8106666684</li>
                                         <li><i class="fa fa-phone"></i>Call us: 8919074607</li>
 								<!--		<li><i class="fa fa-phone"></i>Call us: 9966012643</li>
@@ -474,15 +475,15 @@
 							<div class="widget-icon"></div>
 							<div class="widget-title">EVENTS</div>
 							<ul>
-								<li>
+								<li>alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR"
 									<a href="#"><img src="pic/post/1.png" width="80" height="80" alt=""></a>
                                     <p><a href="#"> 31st IACDE and 24th IES national conference </a><br>Kolkata</p>
 								</li>
-								<li>
+								<li>alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR"
 									<a href="#"><img src="pic/post/2.png" width="80" height="80" alt=""></a>
                                     <p><a href="#">16th IACDE and IES PG Convention</a><br>-Ghaziabad, Uttar Pradesh</p>
 								</li>
-								<li>
+								<li>alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR"
 									<a href="#"><img src="pic/post/3.png" width="80" height="80" alt=""></a>
                                     <p><a href="#">29th IACDE & 22nd IES National Conference</a><br>-Jaipur</p>
 								</li>

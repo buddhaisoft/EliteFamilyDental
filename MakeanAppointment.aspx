@@ -312,7 +312,7 @@
 							
 							<div class="wpb_text_column wpb_content_element">
 								<div class="wpb_wrapper">			
-									<img src="pic/our-phylosophyAshoka.png" width="260" height="246" alt="" class="alignleftwithoutborder">
+									<img src="pic/our-phylosophyAshoka.png" width="260" height="246" alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR" class="alignleftwithoutborder">
 									<p class="capitalized">Nullam convallis volutpat nunc, gravida vestibulum mauris interdum et. Nuncv tortor facilisis quis. 
 									Donec tempor erat vel scelerisque posuere. Nam elementum elit eget tellus faucibus euismod. Aliquam turpis nibh, dictum eu consequat ac, 
 									facilisis eu elit.
@@ -375,7 +375,7 @@
 						<div class="wpb_content_element">
 							<div class="testimonial">
 								<div class="clearfix">
-									<img src="pic/testimonial-1.jpg" width="96" height="96" alt="">
+									<img src="pic/testimonial-1.jpg" width="96" height="96" alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR">
 									<p>Sed purus purus, tincidunt eget malesuada et, molestie ut eros. Fusce blandit, sapien eu sollicitudin consectetur, 
 									ligula tellus pulvinar. Urna, quis facilisis magna dolor ac lacus. Mauris congue nec nisi sit amet malesuada. Vivamus sodales nunc 
 									et pulvinar bibendum. Morbi quis erat non odio suscipit imperdiet quis quis nisl. Pellentesque imperdiet lectus vel aliquet consequat. 
@@ -607,15 +607,15 @@
 							<div class="widget-title">Recent Posts</div>
 							<ul>
 								<li>
-									<a href="#"><img src="pic/post/1.png" width="80" height="80" alt=""></a>
+									<a href="#"><img src="pic/post/1.png" width="80" height="80" alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR"></a>
 									<p><a href="#">New study links lutein with eye health benefits, consectetur adipiscing</a><br>5 months ago</p>
 								</li>
 								<li>
-									<a href="#"><img src="pic/post/2.png" width="80" height="80" alt=""></a>
+									<a href="#"><img src="pic/post/2.png" width="80" height="80" alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR"></a>
 									<p><a href="#">Pets may reduce risk of heart disease, et congue dolor heart</a><br>8 months ago</p>
 								</li>
 								<li>
-									<a href="#"><img src="pic/post/3.png" width="80" height="80" alt=""></a>
+									<a href="#"><img src="pic/post/3.png" width="80" height="80" alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR"></a>
 									<p><a href="#">Discoveries offer a new explanation for diabetes, consectetur</a><br>10 months ago</p>
 								</li>
 							</ul>

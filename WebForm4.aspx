@@ -12,7 +12,7 @@
     	<dd>
 									<div class="details">
 										<div class="clearfix">
-											<img src="pic/services-1.png" width="185" height="110" alt="">
+											<img src="pic/services-1.png" width="185" height="110" alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR">
 											<ul>
 												<li>Address:</li>
 												<li>365 Montauk Avenue<br>Opp SBI ATM,Way to Malkangiri</li>

@@ -301,7 +301,7 @@
 							
 							<div class="wpb_text_column wpb_content_element">
 								<div class="wpb_wrapper">			
-									<img src="pic/our-phylosophy-Makeanappt.png" width="260" height="246" alt="" class="alignleftwithoutborder">
+									<img src="pic/our-phylosophy-Makeanappt.png" width="260" height="246" alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR" class="alignleftwithoutborder">
 									<p>
                                       
 Our Philosophy
@@ -360,7 +360,7 @@ At Elite Family Dental, we want all of our patients to feel welcome and at ease.
 						<div class="wpb_content_element">
 							<div class="testimonial">
 								<div class="clearfix">
-									<img src="pic/testimonial-Makeanappt.jpg" width="96" height="96" alt="">
+									<img src="pic/testimonial-Makeanappt.jpg" width="96" height="96" alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR">
 									<p>
                                         	"The more I read and the more I talked to other parents of children with disabilities and normal children, the more I found that feelings and emotions about children are very much the same in all families. The accident of illness or disability serves only to intensify feelings and emotions, not to change them." 
 -- Judith Weatherly
@@ -746,15 +746,15 @@ At Elite Family Dental, we want all of our patients to feel welcome and at ease.
 							<div class="widget-title">EVENTS</div>
 							<ul>
 								<li>
-									<a href="#"><img src="pic/post/1.png" width="80" height="80" alt=""></a>
+									<a href="#"><img src="pic/post/1.png" width="80" height="80" alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR"></a>
                                     <p><a href="#"> 31st IACDE and 24th IES national conference </a><br>Kolkata</p>
 								</li>
 								<li>
-									<a href="#"><img src="pic/post/2.png" width="80" height="80" alt=""></a>
+									<a href="#"><img src="pic/post/2.png" width="80" height="80" alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR"></a>
                                     <p><a href="#">16th IACDE and IES PG Convention</a><br>-Ghaziabad, Uttar Pradesh</p>
 								</li>
 								<li>
-									<a href="#"><img src="pic/post/3.png" width="80" height="80" alt=""></a>
+									<a href="#"><img src="pic/post/3.png" width="80" height="80" alt="Elite Family Dental | Best Dental Clinic ATTAPUR | Dental Clinic in Attapur | Dentist In Attapur | Dental Hospital | Top 1 Dentists | Dental Surgeons in Attapur | Best Dental Clinic| ELITE FAMILY DENTAL ATTAPUR"></a>
                                     <p><a href="#">29th IACDE & 22nd IES National Conference</a><br>-Jaipur</p>
 								</li>
 							</ul>
